@@ -1,0 +1,16 @@
+body {
+  background-color: #121418;
+  color: #abf;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 1.25em;
+}
+p {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 1.5em;
+}
+span {
+  font-family: 'Courier New', Courier, monospace;
+}
